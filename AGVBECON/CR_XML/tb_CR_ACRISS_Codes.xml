@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="tb_CR_ACRISS_Codes.xsd" generated="2011-04-10T10:15:35">
+<tb_CR_ACRISS_Codes>
+<ID>1</ID>
+<Letter>M</Letter>
+<Description>Mini</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>2</ID>
+<Letter>N</Letter>
+<Description>Mini Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>3</ID>
+<Letter>E</Letter>
+<Description>Economy</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>4</ID>
+<Letter>H</Letter>
+<Description>Economy Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>5</ID>
+<Letter>C</Letter>
+<Description>Compact</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>6</ID>
+<Letter>D</Letter>
+<Description>Compact Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>7</ID>
+<Letter>I</Letter>
+<Description>Intermediate</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>8</ID>
+<Letter>J</Letter>
+<Description>Intermediate Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>9</ID>
+<Letter>S</Letter>
+<Description>Standard</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>10</ID>
+<Letter>R</Letter>
+<Description>Standard Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>11</ID>
+<Letter>F</Letter>
+<Description>Fullsize</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>12</ID>
+<Letter>G</Letter>
+<Description>Fullsize Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>13</ID>
+<Letter>P</Letter>
+<Description>Premium</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>14</ID>
+<Letter>U</Letter>
+<Description>Premium Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>15</ID>
+<Letter>L</Letter>
+<Description>Luxury</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>16</ID>
+<Letter>W</Letter>
+<Description>Luxury Elite</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>17</ID>
+<Letter>O</Letter>
+<Description>Oversize</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>18</ID>
+<Letter>X</Letter>
+<Description>Special</Description>
+<Position>1</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>19</ID>
+<Letter>B</Letter>
+<Description>2-3 Door</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>20</ID>
+<Letter>C</Letter>
+<Description>2/4 Door</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>21</ID>
+<Letter>D</Letter>
+<Description>4-5 Door</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>22</ID>
+<Letter>W</Letter>
+<Description>Wagon/Estate</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>23</ID>
+<Letter>V</Letter>
+<Description>Passenger Van</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>24</ID>
+<Letter>L</Letter>
+<Description>Limousine</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>25</ID>
+<Letter>S</Letter>
+<Description>Sport</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>26</ID>
+<Letter>T</Letter>
+<Description>Convertible</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>27</ID>
+<Letter>F</Letter>
+<Description>SUV</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>28</ID>
+<Letter>J</Letter>
+<Description>Open Air All Terrain</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>29</ID>
+<Letter>X</Letter>
+<Description>Special</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>30</ID>
+<Letter>P</Letter>
+<Description>Pick up Regular Cab</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>31</ID>
+<Letter>Q</Letter>
+<Description>Pick up Extended Cab</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>32</ID>
+<Letter>Z</Letter>
+<Description>Special Offer Car</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>33</ID>
+<Letter>E</Letter>
+<Description>Coupe</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>34</ID>
+<Letter>M</Letter>
+<Description>Monospace</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>35</ID>
+<Letter>R</Letter>
+<Description>Recreational Vehicle</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>36</ID>
+<Letter>H</Letter>
+<Description>Motor Home</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>37</ID>
+<Letter>Y</Letter>
+<Description>2 Wheel Vehicle</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>38</ID>
+<Letter>N</Letter>
+<Description>Roadster</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>39</ID>
+<Letter>G</Letter>
+<Description>Crossover</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>40</ID>
+<Letter>K</Letter>
+<Description>Commercial Van/Truck</Description>
+<Position>2</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>41</ID>
+<Letter>M</Letter>
+<Description>Manual Unspecified Drive</Description>
+<Position>3</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>42</ID>
+<Letter>N</Letter>
+<Description>Manual 4WD</Description>
+<Position>3</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>43</ID>
+<Letter>C</Letter>
+<Description>Manual AWD</Description>
+<Position>3</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>44</ID>
+<Letter>A</Letter>
+<Description>Auto Unspecified Drive</Description>
+<Position>3</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>45</ID>
+<Letter>B</Letter>
+<Description>Auto 4WD</Description>
+<Position>3</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>46</ID>
+<Letter>D</Letter>
+<Description>Auto AWD</Description>
+<Position>3</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>47</ID>
+<Letter>R</Letter>
+<Description>Unspecified Fuel/Power With Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>48</ID>
+<Letter>N</Letter>
+<Description>Unspecified Fuel/Power Without Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>49</ID>
+<Letter>D</Letter>
+<Description>Diesel Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>50</ID>
+<Letter>Q</Letter>
+<Description>Diesel No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>51</ID>
+<Letter>H</Letter>
+<Description>Hybrid Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>52</ID>
+<Letter>I</Letter>
+<Description>Hybrid No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>53</ID>
+<Letter>E</Letter>
+<Description>Electric Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>54</ID>
+<Letter>C</Letter>
+<Description>Electric No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>55</ID>
+<Letter>L</Letter>
+<Description>LPG/Compressed Gas Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>56</ID>
+<Letter>S</Letter>
+<Description>LPG/Compressed Gas No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>57</ID>
+<Letter>A</Letter>
+<Description>Hydrogen Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>58</ID>
+<Letter>B</Letter>
+<Description>Hydrogen No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>59</ID>
+<Letter>M</Letter>
+<Description>Multi Fuel/Power Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>60</ID>
+<Letter>F</Letter>
+<Description>Multi Fuel/Power No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>61</ID>
+<Letter>V</Letter>
+<Description>Petrol Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>62</ID>
+<Letter>Z</Letter>
+<Description>Petrol No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>63</ID>
+<Letter>U</Letter>
+<Description>Ethanol Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+<tb_CR_ACRISS_Codes>
+<ID>64</ID>
+<Letter>X</Letter>
+<Description>Ethanol No Air</Description>
+<Position>4</Position>
+</tb_CR_ACRISS_Codes>
+</dataroot>

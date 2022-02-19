@@ -1,0 +1,29 @@
+﻿<controls:ChildWindow x:Class="AGVBECON.fWBSPProperties"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           Width="400" Height="300"
+           Title="Properties" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk">
+    <Grid x:Name="LayoutRoot" Margin="2">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Button x:Name="OKButton" Content="OK" Width="75" Height="23" HorizontalAlignment="Right"  Margin="0,12,0,0" Grid.Row="1" />
+        <Rectangle Canvas.Left="0" Canvas.Top="0"  Name="Rectangle1" Stroke="Gray" />
+        <sdk:Label Height="17" HorizontalAlignment="Left" Margin="12,10,0,0" Name="Label1" VerticalAlignment="Top" Width="176" Content="Treeview:" />
+        <CheckBox Content="CheckBoxes" Height="16" HorizontalAlignment="Left" Margin="20,30,0,0" Name="chkCheckBoxes" VerticalAlignment="Top" Width="139" />
+        <CheckBox Content="Images" Height="16" HorizontalAlignment="Left" Margin="20,50,0,0" Name="chkImages" VerticalAlignment="Top" Width="100" />
+        <CheckBox Content="Plus/Minus Signs" Height="16" HorizontalAlignment="Left" Margin="20,70,0,0" Name="chkPlusMinusSigns" VerticalAlignment="Top" Width="139" />
+        <CheckBox Content="FullColumnSelect" Height="16" HorizontalAlignment="Left" Margin="20,90,0,0" Name="chkFullColumnSelect" VerticalAlignment="Top" />
+        <CheckBox Content="TreeLines" Height="16" HorizontalAlignment="Left" Margin="20,110,0,0" Name="chkTreeLines" VerticalAlignment="Top" />
+        <sdk:Label Height="17" HorizontalAlignment="Left" Margin="12,130,0,0" Name="Label2" VerticalAlignment="Top" Width="119" Content="ActiveGanttCtl:" />
+        <CheckBox Content="EnforcePredecessors" Height="16" HorizontalAlignment="Left" Margin="20,150,0,0" Name="chkEnforcePredecessors" VerticalAlignment="Top" />
+        <sdk:Label Height="21" HorizontalAlignment="Left" Margin="20,170,0,0" Name="Label3" VerticalAlignment="Top" Width="111" Content="PredecessorMode:" />
+        <ComboBox SelectedValuePath="Tag" Height="23" HorizontalAlignment="Left" Margin="137,170,0,0" Name="cboPredecessorMode" VerticalAlignment="Top" Width="203">
+            <ComboBoxItem Content="PM_FORCE" Tag="0" />
+            <ComboBoxItem Content="PM_CREATEWARNINGFLAG" Tag="1" />
+            <ComboBoxItem Content="PM_RAISEEVENT" Tag="2" />
+        </ComboBox>
+    </Grid>
+</controls:ChildWindow>

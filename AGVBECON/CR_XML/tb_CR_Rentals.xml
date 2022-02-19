@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="tb_CR_Rentals.xsd" generated="2011-04-10T10:16:16">
+<tb_CR_Rentals>
+<lTaskID>21</lTaskID>
+<lRowID>30</lRowID>
+<yMode>0</yMode>
+<sName>Jeromy Lapham</sName>
+<sAddress>33 Mckinley Plaza</sAddress>
+<sCity>Munds Park</sCity>
+<sState>AZ</sState>
+<sZIP>37167</sZIP>
+<sPhone>(532) 463-3173</sPhone>
+<sMobile>(532) 793-8291</sMobile>
+<dtPickUp>2009-06-13T00:00:00</dtPickUp>
+<dtReturn>2009-06-20T00:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>359.2151</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>22</lTaskID>
+<lRowID>34</lRowID>
+<yMode>0</yMode>
+<sName>Colleen Nagle</sName>
+<sAddress>21 Graziano Street</sAddress>
+<sCity>George</sCity>
+<sState>SC</sState>
+<sZIP>99234</sZIP>
+<sPhone>(266) 819-5725</sPhone>
+<sMobile>(266) 876-2444</sMobile>
+<dtPickUp>2009-06-12T00:00:00</dtPickUp>
+<dtReturn>2009-06-18T12:00:00</dtReturn>
+<cRate>245</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>1923.2696</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>23</lTaskID>
+<lRowID>36</lRowID>
+<yMode>0</yMode>
+<sName>Luisa Farrior</sName>
+<sAddress>86 Wiegand Courts</sAddress>
+<sCity>Dayton</sCity>
+<sState>VA</sState>
+<sZIP>79821</sZIP>
+<sPhone>(417) 727-8137</sPhone>
+<sMobile>(417) 974-9449</sMobile>
+<dtPickUp>2009-06-10T12:00:00</dtPickUp>
+<dtReturn>2009-06-26T00:00:00</dtReturn>
+<cRate>45</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>941.207</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>25</lTaskID>
+<lRowID>32</lRowID>
+<yMode>0</yMode>
+<sName>Nancy Sandusky</sName>
+<sAddress>4 Babcock Street</sAddress>
+<sCity>Arlington Heights village</sCity>
+<sState>IL</sState>
+<sZIP>37895</sZIP>
+<sPhone>(446) 926-4519</sPhone>
+<sMobile>(446) 552-5686</sMobile>
+<dtPickUp>2009-06-09T12:00:00</dtPickUp>
+<dtReturn>2009-06-18T12:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>461.8481</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>26</lTaskID>
+<lRowID>29</lRowID>
+<yMode>0</yMode>
+<sName>Shawn Kidder</sName>
+<sAddress>7 Hynes Street</sAddress>
+<sCity>Vernon Center</sCity>
+<sState>MN</sState>
+<sZIP>71625</sZIP>
+<sPhone>(675) 132-8559</sPhone>
+<sMobile>(675) 568-8572</sMobile>
+<dtPickUp>2009-06-19T00:00:00</dtPickUp>
+<dtReturn>2009-06-25T00:00:00</dtReturn>
+<cRate>245</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>1847.0258</cEstimatedTotal>
+<bGPS>1</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>27</lTaskID>
+<lRowID>33</lRowID>
+<yMode>1</yMode>
+<sName>Josephina Kuo</sName>
+<sAddress>7 Gruber Stravenue</sAddress>
+<sCity>North Adams</sCity>
+<sState>MA</sState>
+<sZIP>29555</sZIP>
+<sPhone>(585) 968-9925</sPhone>
+<sMobile>(585) 789-1551</sMobile>
+<dtPickUp>2009-06-11T12:00:00</dtPickUp>
+<dtReturn>2009-06-22T12:00:00</dtReturn>
+<cRate>77</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>1081.8431</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>28</lTaskID>
+<lRowID>35</lRowID>
+<yMode>1</yMode>
+<sName>Sherie Gebhard</sName>
+<sAddress>241 Booth Lock</sAddress>
+<sCity>Bauxite</sCity>
+<sState>AR</sState>
+<sZIP>73573</sZIP>
+<sPhone>(893) 882-9983</sPhone>
+<sMobile>(893) 854-1831</sMobile>
+<dtPickUp>2009-06-11T00:00:00</dtPickUp>
+<dtReturn>2009-06-21T00:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>513.1645</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>29</lTaskID>
+<lRowID>29</lRowID>
+<yMode>0</yMode>
+<sName>Linda Roscoe</sName>
+<sAddress>17 Rosenberry Underpass</sAddress>
+<sCity>Siler</sCity>
+<sState>NC</sState>
+<sZIP>23686</sZIP>
+<sPhone>(929) 872-1524</sPhone>
+<sMobile>(929) 546-9944</sMobile>
+<dtPickUp>2009-06-11T00:00:00</dtPickUp>
+<dtReturn>2009-06-17T00:00:00</dtReturn>
+<cRate>245</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>1775.3258</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>30</lTaskID>
+<lRowID>37</lRowID>
+<yMode>0</yMode>
+<sName>Matthew Alfred</sName>
+<sAddress>298 Burcham Street</sAddress>
+<sCity>Kivalina</sCity>
+<sState>AK</sState>
+<sZIP>88648</sZIP>
+<sPhone>(896) 563-7588</sPhone>
+<sMobile>(896) 973-8419</sMobile>
+<dtPickUp>2009-06-11T12:00:00</dtPickUp>
+<dtReturn>2009-06-20T12:00:00</dtReturn>
+<cRate>39</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>483.0129</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>31</lTaskID>
+<lRowID>31</lRowID>
+<yMode>1</yMode>
+<sName>Betty Ballew</sName>
+<sAddress>6 Gillespie Drive</sAddress>
+<sCity>Souris</sCity>
+<sState>ND</sState>
+<sZIP>99572</sZIP>
+<sPhone>(718) 942-2143</sPhone>
+<sMobile>(718) 726-7799</sMobile>
+<dtPickUp>2009-06-13T00:00:00</dtPickUp>
+<dtReturn>2009-06-23T12:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>538.8227</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>32</lTaskID>
+<lRowID>40</lRowID>
+<yMode>0</yMode>
+<sName>Jame Josephson</sName>
+<sAddress>52 Danford Circle</sAddress>
+<sCity>Arkport village</sCity>
+<sState>NY</sState>
+<sZIP>16792</sZIP>
+<sPhone>(289) 991-7674</sPhone>
+<sMobile>(289) 669-9184</sMobile>
+<dtPickUp>2009-06-10T12:00:00</dtPickUp>
+<dtReturn>2009-06-21T00:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>538.8227</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>33</lTaskID>
+<lRowID>42</lRowID>
+<yMode>0</yMode>
+<sName>Penny Holsinger</sName>
+<sAddress>1 Mariano Fields</sAddress>
+<sCity>Seneca Knolls</sCity>
+<sState>NY</sState>
+<sZIP>58312</sZIP>
+<sPhone>(372) 274-7459</sPhone>
+<sMobile>(372) 576-9947</sMobile>
+<dtPickUp>2009-06-09T12:00:00</dtPickUp>
+<dtReturn>2009-06-17T00:00:00</dtReturn>
+<cRate>45</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>455.4228</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>34</lTaskID>
+<lRowID>44</lRowID>
+<yMode>0</yMode>
+<sName>Linda Gabaldon</sName>
+<sAddress>4 Lewellen Boulevard</sAddress>
+<sCity>Cypress Lake</sCity>
+<sState>FL</sState>
+<sZIP>71862</sZIP>
+<sPhone>(626) 786-3444</sPhone>
+<sMobile>(626) 591-2811</sMobile>
+<dtPickUp>2009-06-10T00:00:00</dtPickUp>
+<dtReturn>2009-06-25T12:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>795.405</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>35</lTaskID>
+<lRowID>46</lRowID>
+<yMode>0</yMode>
+<sName>Gale Cottingham</sName>
+<sAddress>717 Seaton Way</sAddress>
+<sCity>Worthington borough</sCity>
+<sState>PA</sState>
+<sZIP>91136</sZIP>
+<sPhone>(799) 683-3813</sPhone>
+<sMobile>(799) 827-3616</sMobile>
+<dtPickUp>2009-06-11T00:00:00</dtPickUp>
+<dtReturn>2009-06-23T12:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>641.4557</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>36</lTaskID>
+<lRowID>42</lRowID>
+<yMode>0</yMode>
+<sName>Brian Grayson</sName>
+<sAddress>4 Eckert Drive</sAddress>
+<sCity>Dunlap village</sCity>
+<sState>IL</sState>
+<sZIP>29184</sZIP>
+<sPhone>(598) 441-2575</sPhone>
+<sMobile>(598) 191-9179</sMobile>
+<dtPickUp>2009-06-19T00:00:00</dtPickUp>
+<dtReturn>2009-06-25T12:00:00</dtReturn>
+<cRate>45</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>394.6997</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>38</lTaskID>
+<lRowID>45</lRowID>
+<yMode>1</yMode>
+<sName>Dessie Hoffer</sName>
+<sAddress>6 Clay Way</sAddress>
+<sCity>Monett</sCity>
+<sState>MO</sState>
+<sZIP>54761</sZIP>
+<sPhone>(648) 657-9664</sPhone>
+<sMobile>(648) 481-3828</sMobile>
+<dtPickUp>2009-06-10T00:00:00</dtPickUp>
+<dtReturn>2009-06-22T00:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>615.7974</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>39</lTaskID>
+<lRowID>41</lRowID>
+<yMode>1</yMode>
+<sName>Vickie Cartier</sName>
+<sAddress>43 Jordan Way</sAddress>
+<sCity>Williamston</sCity>
+<sState>MI</sState>
+<sZIP>92739</sZIP>
+<sPhone>(682) 266-8395</sPhone>
+<sMobile>(682) 745-8184</sMobile>
+<dtPickUp>2009-06-09T12:00:00</dtPickUp>
+<dtReturn>2009-06-19T12:00:00</dtReturn>
+<cRate>51</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>677.7798</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>41</lTaskID>
+<lRowID>47</lRowID>
+<yMode>0</yMode>
+<sName>Brian Lenoir</sName>
+<sAddress>1 Betts Ridges</sAddress>
+<sCity>Morrisville</sCity>
+<sState>NC</sState>
+<sZIP>11594</sZIP>
+<sPhone>(319) 241-1851</sPhone>
+<sMobile>(319) 571-6978</sMobile>
+<dtPickUp>2009-06-11T12:00:00</dtPickUp>
+<dtReturn>2009-06-19T12:00:00</dtReturn>
+<cRate>223</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>2160.1563</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>43</lTaskID>
+<lRowID>38</lRowID>
+<yMode>2</yMode>
+<dtPickUp>2009-06-11T00:00:00</dtPickUp>
+<dtReturn>2009-06-24T12:00:00</dtReturn>
+<cRate>0</cRate>
+<cALI>0</cALI>
+<dCRF>0</dCRF>
+<cERF>0</cERF>
+<cGPS>0</cGPS>
+<cLDW>0</cLDW>
+<cPAI>0</cPAI>
+<cPEP>0</cPEP>
+<cRCFC>0</cRCFC>
+<cVLF>0</cVLF>
+<cWTB>0</cWTB>
+<dTax>0</dTax>
+<cEstimatedTotal>0</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>44</lTaskID>
+<lRowID>49</lRowID>
+<yMode>0</yMode>
+<sName>Allison Peck</sName>
+<sAddress>169 Massa Street</sAddress>
+<sCity>Waldorf</sCity>
+<sState>MD</sState>
+<sZIP>91846</sZIP>
+<sPhone>(679) 847-1487</sPhone>
+<sMobile>(679) 513-3341</sMobile>
+<dtPickUp>2009-06-10T00:00:00</dtPickUp>
+<dtReturn>2009-06-17T12:00:00</dtReturn>
+<cRate>77</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>940.0453</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>1</bFSO>
+<bLDW>1</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>45</lTaskID>
+<lRowID>48</lRowID>
+<yMode>0</yMode>
+<sName>Tiffany Arce</sName>
+<sAddress>6 Spires Street</sAddress>
+<sCity>Hartford village</sCity>
+<sState>IL</sState>
+<sZIP>36615</sZIP>
+<sPhone>(362) 357-2429</sPhone>
+<sMobile>(362) 488-4141</sMobile>
+<dtPickUp>2009-06-19T00:00:00</dtPickUp>
+<dtReturn>2009-06-24T00:00:00</dtReturn>
+<cRate>77</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>491.7469</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>46</lTaskID>
+<lRowID>51</lRowID>
+<yMode>0</yMode>
+<sName>Felipe Vantassel</sName>
+<sAddress>56 Ormsby Street</sAddress>
+<sCity>Cheswold</sCity>
+<sState>DE</sState>
+<sZIP>49225</sZIP>
+<sPhone>(714) 757-2167</sPhone>
+<sMobile>(714) 378-9745</sMobile>
+<dtPickUp>2009-06-14T00:00:00</dtPickUp>
+<dtReturn>2009-06-24T12:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>538.8227</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+<tb_CR_Rentals>
+<lTaskID>47</lTaskID>
+<lRowID>50</lRowID>
+<yMode>0</yMode>
+<sName>Patricia Cook</sName>
+<sAddress>22 Goulet Drive</sAddress>
+<sCity>Wesleyville borough</sCity>
+<sState>PA</sState>
+<sZIP>15945</sZIP>
+<sPhone>(421) 352-2962</sPhone>
+<sMobile>(421) 682-7189</sMobile>
+<dtPickUp>2009-06-19T00:00:00</dtPickUp>
+<dtReturn>2009-06-25T12:00:00</dtReturn>
+<cRate>37</cRate>
+<cALI>14.43</cALI>
+<dCRF>0.0989</dCRF>
+<cERF>0.67</cERF>
+<cGPS>11.95</cGPS>
+<cLDW>26.99</cLDW>
+<cPAI>4</cPAI>
+<cPEP>2.95</cPEP>
+<cRCFC>4</cRCFC>
+<cVLF>0.6</cVLF>
+<cWTB>2.03</cWTB>
+<dTax>0.07</dTax>
+<cEstimatedTotal>333.5569</cEstimatedTotal>
+<bGPS>0</bGPS>
+<bFSO>0</bFSO>
+<bLDW>0</bLDW>
+<bPAI>0</bPAI>
+<bPEP>0</bPEP>
+<bALI>0</bALI>
+</tb_CR_Rentals>
+</dataroot>

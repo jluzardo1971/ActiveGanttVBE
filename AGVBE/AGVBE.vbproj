@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{B5E13992-6621-4450-98F4-F5DD100381DE}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AGVBE</RootNamespace>
+    <AssemblyName>AGVBE</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>false</SilverlightApplication>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the 
+       MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+       to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <MyType>Empty</MyType>
+    <OutputPath>..\AGVBECON\AGVBE\</OutputPath>
+    <DocumentationFile>AGVBE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DefineConstants>SILVERLIGHT=1, DemoVersion=1</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <Optimize>true</Optimize>
+    <OutputPath>..\AGVBECON\AGVBE\</OutputPath>
+    <DocumentationFile>AGVBE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DefineConstants>SILVERLIGHT=1</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'SCSDemo|AnyCPU'">
+    <OutputPath>..\AGVBECON\AGVBE\</OutputPath>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <DefineConstants>SILVERLIGHT=1, DemoVersion=1</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'SCSCustomer|AnyCPU'">
+    <OutputPath>..\AGVBECON\AGVBE\</OutputPath>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <DefineConstants>SILVERLIGHT=1</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="System.Xml.Linq, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Net" />
+    <Import Include="System.Xml" />
+    <Import Include="System.Windows" />
+    <Import Include="System.Windows.Controls" />
+    <Import Include="System.Windows.Documents" />
+    <Import Include="System.Windows.Ink" />
+    <Import Include="System.Windows.Input" />
+    <Import Include="System.Windows.Media" />
+    <Import Include="System.Windows.Media.Animation" />
+    <Import Include="System.Windows.Shapes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActiveGanttVBECtl.xaml.vb">
+      <DependentUpon>ActiveGanttVBECtl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ArrayList.vb" />
+    <Compile Include="clsButtonBorderStyle.vb" />
+    <Compile Include="clsButtonState.vb" />
+    <Compile Include="clsCell.vb" />
+    <Compile Include="clsCells.vb" />
+    <Compile Include="clsClientArea.vb" />
+    <Compile Include="clsCollectionBase.vb" />
+    <Compile Include="clsColumn.vb" />
+    <Compile Include="clsColumns.vb" />
+    <Compile Include="clsCustomBorderStyle.vb" />
+    <Compile Include="clsDictionary.vb" />
+    <Compile Include="clsDrawing.vb" />
+    <Compile Include="clsDuration.vb" />
+    <Compile Include="clsGraphics.vb" />
+    <Compile Include="clsGrid.vb" />
+    <Compile Include="clsHorizontalScrollBar.vb" />
+    <Compile Include="clsHScrollBarTemplate.vb" />
+    <Compile Include="clsItemBase.vb" />
+    <Compile Include="clsLayer.vb" />
+    <Compile Include="clsLayers.vb" />
+    <Compile Include="clsMath.vb" />
+    <Compile Include="clsMilestoneStyle.vb" />
+    <Compile Include="clsMouseKeyboardEvents.vb" />
+    <Compile Include="clsNode.vb" />
+    <Compile Include="clsPercentage.vb" />
+    <Compile Include="clsPercentages.vb" />
+    <Compile Include="clsPredecessor.vb" />
+    <Compile Include="clsPredecessors.vb" />
+    <Compile Include="clsPredecessorStyle.vb" />
+    <Compile Include="clsProgressLine.vb" />
+    <Compile Include="clsRow.vb" />
+    <Compile Include="clsRows.vb" />
+    <Compile Include="clsScrollBarSeparator.vb" />
+    <Compile Include="clsScrollBarStyle.vb" />
+    <Compile Include="clsSelectionRectangleStyle.vb" />
+    <Compile Include="clsSplitter.vb" />
+    <Compile Include="clsString.vb" />
+    <Compile Include="clsStyle.vb" />
+    <Compile Include="clsStyles.vb" />
+    <Compile Include="clsTask.vb" />
+    <Compile Include="clsTasks.vb" />
+    <Compile Include="clsTaskStyle.vb" />
+    <Compile Include="clsTextBox.vb" />
+    <Compile Include="clsTextFlags.vb" />
+    <Compile Include="clsTickMark.vb" />
+    <Compile Include="clsTickMarkArea.vb" />
+    <Compile Include="clsTickMarks.vb" />
+    <Compile Include="clsTier.vb" />
+    <Compile Include="clsTierAppearance.vb" />
+    <Compile Include="clsTierArea.vb" />
+    <Compile Include="clsTierColor.vb" />
+    <Compile Include="clsTierColors.vb" />
+    <Compile Include="clsTierFormat.vb" />
+    <Compile Include="clsTime.vb" />
+    <Compile Include="clsTimeBlock.vb" />
+    <Compile Include="clsTimeBlocks.vb" />
+    <Compile Include="clsTimeLine.vb" />
+    <Compile Include="clsTimeLineScrollBar.vb" />
+    <Compile Include="clsTreeview.vb" />
+    <Compile Include="clsVerticalScrollBar.vb" />
+    <Compile Include="clsView.vb" />
+    <Compile Include="clsViews.vb" />
+    <Compile Include="clsVScrollBarTemplate.vb" />
+    <Compile Include="clsXML.vb" />
+    <Compile Include="CustomTierDrawEventArgs.vb" />
+    <Compile Include="DateTime.vb" />
+    <Compile Include="DesigntimeRegistryLicense.vb" />
+    <Compile Include="DrawEventArgs.vb" />
+    <Compile Include="ErrorEventArgs.vb" />
+    <Compile Include="Font.vb" />
+    <Compile Include="Globals.vb" />
+    <Compile Include="KeyEventArgs.vb" />
+    <Compile Include="MouseEventArgs.vb" />
+    <Compile Include="MouseWheelEventArgs.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="NodeEventArgs.vb" />
+    <Compile Include="ObjectAddedEventArgs.vb" />
+    <Compile Include="ObjectSelectedEventArgs.vb" />
+    <Compile Include="ObjectStateChangedEventArgs.vb" />
+    <Compile Include="PngEncoder\Adler32.vb" />
+    <Compile Include="PngEncoder\CRC32.vb" />
+    <Compile Include="PngEncoder\Deflater.vb" />
+    <Compile Include="PngEncoder\DeflaterConstants.vb" />
+    <Compile Include="PngEncoder\DeflaterEngine.vb" />
+    <Compile Include="PngEncoder\DeflaterHuffman.vb" />
+    <Compile Include="PngEncoder\DeflaterOutputStream.vb" />
+    <Compile Include="PngEncoder\DeflaterPending.vb" />
+    <Compile Include="PngEncoder\EGlobals.vb" />
+    <Compile Include="PngEncoder\IChecksum.vb" />
+    <Compile Include="PngEncoder\PendingBuffer.vb" />
+    <Compile Include="PngEncoder\PngEncoder.vb" />
+    <Compile Include="PredecessorDrawEventArgs.vb" />
+    <Compile Include="PredecessorExceptionEventArgs.vb" />
+    <Compile Include="RegistryLicenseProvider.vb" />
+    <Compile Include="RuntimeRegistryLicense.vb" />
+    <Compile Include="ScrollEventArgs.vb" />
+    <Compile Include="TextEditEventArgs.vb" />
+    <Compile Include="ToolTipEventArgs.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="ActiveGanttVBECtl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="C_WAIT05.png" />
+    <Resource Include="DRAGMOVE.png" />
+    <Resource Include="HO_SPLIT.png" />
+    <Resource Include="PERCENTAGE.png" />
+    <Resource Include="PREDECESSOR.png" />
+    <Resource Include="VE_SPLIT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="CROSS.png" />
+    <Resource Include="NO_DROP.png" />
+    <Resource Include="SIZE_ALL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="folderclosed.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.VisualBasic.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

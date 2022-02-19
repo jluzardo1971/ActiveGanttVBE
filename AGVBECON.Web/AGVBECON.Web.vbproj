@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{646AA0E6-F5DD-4244-B770-05ED420471C4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AGVBECON.Web</RootNamespace>
+    <AssemblyName>AGVBECON.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+    <SilverlightApplicationList>{B7470DE1-D91B-4517-9D72-399F00F04446}|..\AGVBECON\AGVBECON.vbproj|ClientBin|False</SilverlightApplicationList>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>AGVBECON.Web.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>AGVBECON.Web.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'SCSDemo|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'SCSCustomer|AnyCPU'">
+    <OutputPath>bin\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel.DomainServices.Hosting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel.DomainServices.Server, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CarRental\Big\Chrysler 300 Bright Silver.jpg" />
+    <Content Include="CarRental\Big\Chrysler 300 Brilliant Black.jpg" />
+    <Content Include="CarRental\Big\Chrysler 300 Clearwater Blue.jpg" />
+    <Content Include="CarRental\Big\Escape Atlantis Blue.jpg" />
+    <Content Include="CarRental\Big\Escape Hot Red.jpg" />
+    <Content Include="CarRental\Big\Escape Metalic Sand.jpg" />
+    <Content Include="CarRental\Big\Escape Panther Black.jpg" />
+    <Content Include="CarRental\Big\Falcon XT Wagon Lightning Strike.jpg" />
+    <Content Include="CarRental\Big\Falcon XT Wagon Sensation.jpg" />
+    <Content Include="CarRental\Big\Falcon XT Wagon Silhoutte.jpg" />
+    <Content Include="CarRental\Big\Falcon XT Wagon Steel.jpg" />
+    <Content Include="CarRental\Big\Falcon XT Wagon Vixen.jpg" />
+    <Content Include="CarRental\Big\Fiesta CL 3 Door Hydro.jpg" />
+    <Content Include="CarRental\Big\Fiesta CL 3 Door Ocean.jpg" />
+    <Content Include="CarRental\Big\Fiesta CL 3 Door Panther Black.jpg" />
+    <Content Include="CarRental\Big\Fiesta CL 5 Door Frozen White.jpg" />
+    <Content Include="CarRental\Big\Fiesta CL 5 Door Hydro.jpg" />
+    <Content Include="CarRental\Big\Fiesta CL 5 Door Panther Black.jpg" />
+    <Content Include="CarRental\Big\Fiesta CL 5 Door Squeeze.jpg" />
+    <Content Include="CarRental\Big\Focus CL Hatch Black Sapphire.jpg" />
+    <Content Include="CarRental\Big\Focus CL Hatch Colorado Red.jpg" />
+    <Content Include="CarRental\Big\Focus CL Hatch Ocean.jpg" />
+    <Content Include="CarRental\Big\Focus CL Hatch Tonic.jpg" />
+    <Content Include="CarRental\Big\Focus CL Sedan Black Sapphire.jpg" />
+    <Content Include="CarRental\Big\Focus CL Sedan Ocean.jpg" />
+    <Content Include="CarRental\Big\Focus CL Sedan Satin White.jpg" />
+    <Content Include="CarRental\Big\Focus CL Sedan Tango.jpg" />
+    <Content Include="CarRental\Big\Focus CL Sedan Titanium Grey.jpg" />
+    <Content Include="CarRental\Big\LR3 Alaska White.jpg" />
+    <Content Include="CarRental\Big\LR3 Rimini Red.jpg" />
+    <Content Include="CarRental\Big\LR3 Santorini Black.jpg" />
+    <Content Include="CarRental\Big\Mondeo LX Colorado Red.jpg" />
+    <Content Include="CarRental\Big\Mondeo LX Ink Blue.jpg" />
+    <Content Include="CarRental\Big\Mondeo LX Sea Grey.jpg" />
+    <Content Include="CarRental\Big\Pacifica Clearwater Blue.jpg" />
+    <Content Include="CarRental\Big\Pacifica Modern Blue.jpg" />
+    <Content Include="CarRental\Big\Pacifica Silver.jpg" />
+    <Content Include="CarRental\Big\Range Rover HSE Alaska White.jpg" />
+    <Content Include="CarRental\Big\Range Rover HSE Buckingham Blue.jpg" />
+    <Content Include="CarRental\Big\Range Rover HSE Galway Green.jpg" />
+    <Content Include="CarRental\Big\Range Rover HSE Rimini.jpg" />
+    <Content Include="CarRental\Big\Range Rover HSE Santorini Black.jpg" />
+    <Content Include="CarRental\Big\Range Rover HSE Zermatt Silver.jpg" />
+    <Content Include="CarRental\Big\Territory TX RWD Ego.jpg" />
+    <Content Include="CarRental\Big\Territory TX RWD Kashmir.jpg" />
+    <Content Include="CarRental\Big\Territory TX RWD Silhouette.jpg" />
+    <Content Include="CarRental\Big\Territory TX RWD Steel.jpg" />
+    <Content Include="CarRental\Big\Territory TX RWD Winter White.jpg" />
+    <Content Include="CarRental\Big\Town and Country Clearwater Blue.jpg" />
+    <Content Include="CarRental\Big\Town and Country Inferno Red.jpg" />
+    <Content Include="CarRental\Big\Town and Country Melbourne Green.jpg" />
+    <Content Include="CarRental\Big\Town and Country Modern Blue.jpg" />
+    <Content Include="CarRental\minus.jpg" />
+    <Content Include="CarRental\plus.jpg" />
+    <Content Include="CarRental\small\Chrysler 300 Bright Silver.jpg" />
+    <Content Include="CarRental\small\Chrysler 300 Brilliant Black.jpg" />
+    <Content Include="CarRental\small\Chrysler 300 Clearwater Blue.jpg" />
+    <Content Include="CarRental\small\Escape Atlantis Blue.jpg" />
+    <Content Include="CarRental\small\Escape Hot Red.jpg" />
+    <Content Include="CarRental\small\Escape Metalic Sand.jpg" />
+    <Content Include="CarRental\small\Escape Panther Black.jpg" />
+    <Content Include="CarRental\small\Falcon XT Wagon Lightning Strike.jpg" />
+    <Content Include="CarRental\small\Falcon XT Wagon Sensation.jpg" />
+    <Content Include="CarRental\small\Falcon XT Wagon Silhoutte.jpg" />
+    <Content Include="CarRental\small\Falcon XT Wagon Steel.jpg" />
+    <Content Include="CarRental\small\Falcon XT Wagon Vixen.jpg" />
+    <Content Include="CarRental\small\Fiesta CL 3 Door Hydro.jpg" />
+    <Content Include="CarRental\small\Fiesta CL 3 Door Ocean.jpg" />
+    <Content Include="CarRental\small\Fiesta CL 3 Door Panther Black.jpg" />
+    <Content Include="CarRental\small\Fiesta CL 5 Door Frozen White.jpg" />
+    <Content Include="CarRental\small\Fiesta CL 5 Door Hydro.jpg" />
+    <Content Include="CarRental\small\Fiesta CL 5 Door Panther Black.jpg" />
+    <Content Include="CarRental\small\Fiesta CL 5 Door Squeeze.jpg" />
+    <Content Include="CarRental\small\Focus CL Hatch Black Sapphire.jpg" />
+    <Content Include="CarRental\small\Focus CL Hatch Colorado Red.jpg" />
+    <Content Include="CarRental\small\Focus CL Hatch Ocean.jpg" />
+    <Content Include="CarRental\small\Focus CL Hatch Tonic.jpg" />
+    <Content Include="CarRental\small\Focus CL Sedan Black Sapphire.jpg" />
+    <Content Include="CarRental\small\Focus CL Sedan Ocean.jpg" />
+    <Content Include="CarRental\small\Focus CL Sedan Satin White.jpg" />
+    <Content Include="CarRental\small\Focus CL Sedan Tango.jpg" />
+    <Content Include="CarRental\small\Focus CL Sedan Titanium Grey.jpg" />
+    <Content Include="CarRental\small\LR3 Alaska White.jpg" />
+    <Content Include="CarRental\small\LR3 Rimini Red.jpg" />
+    <Content Include="CarRental\small\LR3 Santorini Black.jpg" />
+    <Content Include="CarRental\small\Mondeo LX Colorado Red.jpg" />
+    <Content Include="CarRental\small\Mondeo LX Ink Blue.jpg" />
+    <Content Include="CarRental\small\Mondeo LX Sea Grey.jpg" />
+    <Content Include="CarRental\small\Pacifica Clearwater Blue.jpg" />
+    <Content Include="CarRental\small\Pacifica Modern Blue.jpg" />
+    <Content Include="CarRental\small\Pacifica Silver.jpg" />
+    <Content Include="CarRental\small\Range Rover HSE Alaska White.jpg" />
+    <Content Include="CarRental\small\Range Rover HSE Buckingham Blue.jpg" />
+    <Content Include="CarRental\small\Range Rover HSE Galway Green.jpg" />
+    <Content Include="CarRental\small\Range Rover HSE Rimini.jpg" />
+    <Content Include="CarRental\small\Range Rover HSE Santorini Black.jpg" />
+    <Content Include="CarRental\small\Range Rover HSE Zermatt Silver.jpg" />
+    <Content Include="CarRental\small\Territory TX RWD Ego.jpg" />
+    <Content Include="CarRental\small\Territory TX RWD Kashmir.jpg" />
+    <Content Include="CarRental\small\Territory TX RWD Silhouette.jpg" />
+    <Content Include="CarRental\small\Territory TX RWD Steel.jpg" />
+    <Content Include="CarRental\small\Territory TX RWD Winter White.jpg" />
+    <Content Include="CarRental\small\Town and Country Clearwater Blue.jpg" />
+    <Content Include="CarRental\small\Town and Country Inferno Red.jpg" />
+    <Content Include="CarRental\small\Town and Country Melbourne Green.jpg" />
+    <Content Include="CarRental\small\Town and Country Modern Blue.jpg" />
+    <Content Include="Default.aspx" />
+    <Content Include="ClientBin\AGVBECON.xap" />
+    <Content Include="Silverlight.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ActiveGanttXMLService.vb" />
+    <Compile Include="Globals.vb" />
+    <Compile Include="MSP2003Service.vb" />
+    <Compile Include="MSP2007Service.vb" />
+    <Compile Include="MSP2010Service.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+    <Folder Include="MSP2003\" />
+    <Folder Include="MSP2007\" />
+    <Folder Include="MSP2010\" />
+    <Folder Include="XML\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1907</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

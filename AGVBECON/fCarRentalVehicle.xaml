@@ -1,0 +1,35 @@
+﻿<controls:ChildWindow x:Class="AGVBECON.fCarRentalVehicle"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           Width="548" Height="597"
+           Title="fCarRentalVehicle"
+           xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk">
+    <Canvas Name="oCanvas">
+        <Rectangle Canvas.Left="14" Canvas.Top="12" Height="503" Name="Rectangle1" Stroke="Gray" Width="496" />
+        <ComboBox Canvas.Left="183" Canvas.Top="25" Height="21" x:Name="drpCarTypeID" Width="311" />
+        <ComboBox Canvas.Left="183" Canvas.Top="81" Height="21" x:Name="drpACRISS1" Width="311" />
+        <ComboBox Canvas.Left="183" Canvas.Top="108" Height="21" x:Name="drpACRISS2" Width="311" />
+        <ComboBox Canvas.Left="183" Canvas.Top="135" Height="21" x:Name="drpACRISS3" Width="311" />
+        <ComboBox Canvas.Left="183" Canvas.Top="162" Height="21" x:Name="drpACRISS4" Width="311" />
+        <TextBox Canvas.Left="183" Canvas.Top="52" Height="21" Name="txtLicensePlates" Width="184" />
+        <TextBox Canvas.Left="183" Canvas.Top="189" Height="21" Name="txtRate" Width="89" />
+        <sdk:Label Canvas.Left="183" Canvas.Top="216" Height="24" Name="lblACRISS1" Width="23">W</sdk:Label>
+        <sdk:Label Canvas.Left="204" Canvas.Top="216" Height="24" Name="lblACRISS2" Width="23">W</sdk:Label>
+        <sdk:Label Canvas.Left="225" Canvas.Top="216" Height="24" Name="lblACRISS3" Width="23">W</sdk:Label>
+        <sdk:Label Canvas.Left="249" Canvas.Top="216" Height="24" Name="lblACRISS4" Width="23">W</sdk:Label>
+        <TextBox Canvas.Left="183" Canvas.Top="246" Height="61" Name="txtNotes" Width="311" />
+        <Image Canvas.Left="52" Canvas.Top="313" Height="186" Name="picMake" Stretch="Fill" Width="442" />
+        <sdk:Label Canvas.Left="30" Canvas.Top="25" Height="21" Name="Label5" Width="116">Make and Color:</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="52" Height="21" Name="Label6" Width="116">License Plates:</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="81" Height="21" Name="Label7" Width="146">ACRISS Code (1st Letter):</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="108" Height="21" Name="Label8" Width="146">ACRISS Code (2nd Letter):</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="135" Height="21" Name="Label9" Width="146">ACRISS Code (3rd Letter):</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="162" Height="21" Name="Label10" Width="146">ACRISS Code (4th Letter):</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="189" Height="21" Name="Label11" Width="116">Rate:</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="216" Height="21" Name="Label12" Width="116">ACRISS Code:</sdk:Label>
+        <sdk:Label Canvas.Left="31" Canvas.Top="246" Height="21" Name="Label13" Width="116">Notes:</sdk:Label>
+        <Button Canvas.Left="258" Canvas.Top="531" Height="28" x:Name="cmdCancel" Width="123">Cancel</Button>
+        <Button Canvas.Left="387" Canvas.Top="531" Height="27" x:Name="cmdOK" Width="123">OK</Button>
+    </Canvas>
+</controls:ChildWindow>

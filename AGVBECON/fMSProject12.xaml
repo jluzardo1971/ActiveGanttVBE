@@ -1,0 +1,48 @@
+﻿<navigation:Page xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"  x:Class="AGVBECON.fMSProject12"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           xmlns:AGVBE="clr-namespace:AGVBE;assembly=AGVBE"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           d:DesignWidth="1024" d:DesignHeight="480"
+           Title="Project 2007 Integration">
+    <Canvas x:Name="LayoutRoot" Width="1024" Height="700">
+        <Border Canvas.Top="10" Canvas.Left="12" Height="40" Width="500" BorderBrush="#CCC" CornerRadius="3" BorderThickness="1" >
+            <StackPanel Orientation="Horizontal">
+                <Button Name="cmdBack" Width="24" Height="24" Margin="5,5,5,5">
+                    <ToolTipService.ToolTip>
+                        <ToolTip Content="Back to main menu"></ToolTip>
+                    </ToolTipService.ToolTip>
+                    <Image Source="Images/Toolbars/tree_view.png" Width="16" Height="16" Name="Image1" />
+                </Button>
+                <Button Name="cmdLoadXML" Width="24" Height="24" Margin="5,5,5,5">
+                    <ToolTipService.ToolTip>
+                        <ToolTip Content="Load MS-Project 2007 XML file"></ToolTip>
+                    </ToolTipService.ToolTip>
+                    <Image Source="Images/Toolbars/open.png" Width="16" Height="16" Name="Image2" />
+                </Button>
+                <Button Name="cmdSaveXML" Width="24" Height="24" Margin="5,5,5,5">
+                    <ToolTipService.ToolTip>
+                        <ToolTip Content="Save MS-Project 2007 XML file"></ToolTip>
+                    </ToolTipService.ToolTip>
+                    <Image Source="Images/Toolbars/save.png" Width="16" Height="16" />
+                </Button>
+                <Button Name="cmdZoomin" Width="24" Height="24" Margin="5,5,5,5" >
+                    <ToolTipService.ToolTip>
+                        <ToolTip Content="Zoom in"></ToolTip>
+                    </ToolTipService.ToolTip>
+                    <Image Source="Images/Toolbars/zoomin.png" Width="16" Height="16"  />
+                </Button>
+                <Button Name="cmdZoomout" Width="24" Height="24" Margin="5,5,5,5" >
+                    <ToolTipService.ToolTip>
+                        <ToolTip Content="Zoom out"></ToolTip>
+                    </ToolTipService.ToolTip>
+                    <Image Source="Images/Toolbars/zoomout.png" Width="16" Height="16" />
+                </Button>
+            </StackPanel>
+        </Border>
+        <AGVBE:ActiveGanttVBECtl x:Name="ActiveGanttVBECtl1" Canvas.Top="90" Canvas.Left="12" Width="1024" Height="600" />
+    </Canvas>
+</navigation:Page>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="tb_CR_US_States.xsd" generated="2011-04-19T17:17:30">
+<tb_CR_US_States>
+<ID>AK </ID>
+<Name>Alaska </Name>
+<dCarRentalTax>0.05</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>AL </ID>
+<Name>Alabama </Name>
+<dCarRentalTax>0.06</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>AR </ID>
+<Name>Arkansas </Name>
+<dCarRentalTax>0.02</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>AZ </ID>
+<Name>Arizona </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>CA </ID>
+<Name>California </Name>
+<dCarRentalTax>0.04</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>CO </ID>
+<Name>Colorado </Name>
+<dCarRentalTax>0.03</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>CT </ID>
+<Name>Connecticut </Name>
+<dCarRentalTax>0.03</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>DE </ID>
+<Name>Delaware </Name>
+<dCarRentalTax>0.04</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>FL </ID>
+<Name>Florida </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>GA </ID>
+<Name>Georgia </Name>
+<dCarRentalTax>0.04</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>HI </ID>
+<Name>Hawaii </Name>
+<dCarRentalTax>0.04</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>IA </ID>
+<Name>Iowa </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>ID </ID>
+<Name>Idaho </Name>
+<dCarRentalTax>0.03</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>IL </ID>
+<Name>Illinois </Name>
+<dCarRentalTax>0.04</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>IN </ID>
+<Name>Indiana </Name>
+<dCarRentalTax>0.06</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>KS </ID>
+<Name>Kansas </Name>
+<dCarRentalTax>0.02</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>KY </ID>
+<Name>Kentucky </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>LA </ID>
+<Name>Louisiana </Name>
+<dCarRentalTax>0.05</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>MA </ID>
+<Name>Massachusetts </Name>
+<dCarRentalTax>0.06</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>MD </ID>
+<Name>Maryland </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>ME </ID>
+<Name>Maine </Name>
+<dCarRentalTax>0.05</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>MI </ID>
+<Name>Michigan </Name>
+<dCarRentalTax>0.06</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>MN </ID>
+<Name>Minnesota </Name>
+<dCarRentalTax>0.03</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>MO </ID>
+<Name>Missouri </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>MS </ID>
+<Name>Mississippi </Name>
+<dCarRentalTax>0.06</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>MT </ID>
+<Name>Montana </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>NE</ID>
+<Name>Nebraska </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>NC</ID>
+<Name>North Carolina </Name>
+<dCarRentalTax>0.05</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>ND</ID>
+<Name>North Dakota </Name>
+<dCarRentalTax>0.03</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>NH</ID>
+<Name>New Hampshire </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>NJ</ID>
+<Name>New Jersey </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>NM</ID>
+<Name>New Mexico </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>NY</ID>
+<Name>New York </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>NV</ID>
+<Name>Nevada </Name>
+<dCarRentalTax>0.02</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>OH</ID>
+<Name>Ohio </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>OK</ID>
+<Name>Oklahoma </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>OR</ID>
+<Name>Oregon </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>PA</ID>
+<Name>Pennsylvania </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>RI</ID>
+<Name>Rhode Island </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>SC</ID>
+<Name>South Carolina </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>SD</ID>
+<Name>South Dakota </Name>
+<dCarRentalTax>0.05</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>TN</ID>
+<Name>Tennessee </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>TX</ID>
+<Name>Texas </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>UT</ID>
+<Name>Utah </Name>
+<dCarRentalTax>0.03</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>VA</ID>
+<Name>Virginia </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>VT</ID>
+<Name>Vermont </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>WA</ID>
+<Name>Washington </Name>
+<dCarRentalTax>0.045</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>WI</ID>
+<Name>Wisconsin </Name>
+<dCarRentalTax>0.07</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>WV</ID>
+<Name>West Virginia </Name>
+<dCarRentalTax>0.03</dCarRentalTax>
+</tb_CR_US_States>
+<tb_CR_US_States>
+<ID>WY</ID>
+<Name>Wyoming </Name>
+<dCarRentalTax>0.06</dCarRentalTax>
+</tb_CR_US_States>
+</dataroot>

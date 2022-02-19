@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="tb_CR_Taxes_Surcharges_Options.xsd" generated="2011-04-17T13:39:34">
+<tb_CR_Taxes_Surcharges_Options>
+<sID>GPS</sID>
+<sDescription>GPS</sDescription>
+<sRate>11.95</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>LDW</sID>
+<sDescription>Loss Damage Waiver</sDescription>
+<sRate>26.99</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>PAI</sID>
+<sDescription>Personal Accident Insurance</sDescription>
+<sRate>4</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>PEP</sID>
+<sDescription>Personal Effects Protection</sDescription>
+<sRate>2.95</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>ALI</sID>
+<sDescription>Additional Liability Insurance</sDescription>
+<sRate>14.43</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>ERF</sID>
+<sDescription>Energy Recovery Fee</sDescription>
+<sRate>0.67</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>WTB</sID>
+<sDescription>Waste Tire/Battery</sDescription>
+<sRate>2.03</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>RCFC</sID>
+<sDescription>Rental Car Facility Charge</sDescription>
+<sRate>4</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>VLF</sID>
+<sDescription>Vehicle License Fee</sDescription>
+<sRate>0.6</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+<tb_CR_Taxes_Surcharges_Options>
+<sID>CRF</sID>
+<sDescription>Concession Recovery Fee</sDescription>
+<sRate>0.0989</sRate>
+</tb_CR_Taxes_Surcharges_Options>
+</dataroot>

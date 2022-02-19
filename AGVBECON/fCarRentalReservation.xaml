@@ -1,0 +1,86 @@
+﻿<controls:ChildWindow x:Class="AGVBECON.fCarRentalReservation"
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           Width="883" Height="584"
+           Title="fCarRentalReservation"
+           xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk">
+    <Canvas>
+        <sdk:Label Canvas.Left="564" Canvas.Top="312" Height="28" Name="Label568" Width="264">Rental Car Faciltity Charge:</sdk:Label>
+        <Rectangle Canvas.Left="1" Canvas.Top="37" Height="475" Name="Rectangle1" Stroke="Black" Width="854" />
+        <sdk:Label Canvas.Left="564" Canvas.Top="393" Height="28" Name="Label581" Width="264">Waste Tire/Battery Fee:</sdk:Label>
+        <sdk:Label Canvas.Left="564" Canvas.Top="366" Height="28" Name="Label580" Width="264">Vehicle License Fee:</sdk:Label>
+        <sdk:Label Canvas.Left="564" Canvas.Top="339" Height="28" Name="Label569" Width="264">Energy Recovery Fee:</sdk:Label>
+        <sdk:Label Canvas.Left="564" Canvas.Top="285" Height="28" Name="Label567" Width="264">Concession Recovery Fee:</sdk:Label>
+        <Rectangle Canvas.Left="498" Canvas.Top="56" Height="75" Name="Rectangle3" Stroke="Gray" Width="347" />
+        <Rectangle Canvas.Left="498" Canvas.Top="150" Height="122" Name="Rectangle2" Stroke="Gray" Width="345" />
+        <sdk:Label Canvas.Left="0" Canvas.Top="0" Height="25" Name="lblMode" Width="854" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center">lblMode</sdk:Label>
+        <sdk:Label Canvas.Left="13" Canvas.Top="46" Height="28" Name="Label2" Width="120">Name:</sdk:Label>
+        <sdk:Label Canvas.Left="13" Canvas.Top="73" Height="28" Name="Label3" Width="120">Address:</sdk:Label>
+        <sdk:Label Canvas.Left="13" Canvas.Top="100" Height="28" Name="Label4" Width="120">City:</sdk:Label>
+        <sdk:Label Canvas.Left="13" Canvas.Top="129" Height="28" Name="Label5" Width="120">State:</sdk:Label>
+        <sdk:Label Canvas.Left="13" Canvas.Top="156" Height="28" Name="Label6" Width="120">ZIP:</sdk:Label>
+        <sdk:Label Canvas.Left="13" Canvas.Top="183" Height="28" Name="Label7" Width="120">Phone:</sdk:Label>
+        <TextBox Canvas.Left="111" Canvas.Top="46" Height="21" Name="txtName" Width="354" />
+        <TextBox Canvas.Left="111" Canvas.Top="73" Height="21" Name="txtAddress" Width="354" />
+        <TextBox Canvas.Left="111" Canvas.Top="100" Height="21" Name="txtCity" Width="242" />
+        <TextBox Canvas.Left="111" Canvas.Top="129" Height="21" Name="txtState" Width="34" />
+        <TextBox Canvas.Left="111" Canvas.Top="156" Height="21" Name="txtZIP" Width="66" />
+        <TextBox Canvas.Left="111" Canvas.Top="183" Height="21" Name="txtPhone" Width="101" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="210" Height="28" Name="Label8" Width="120">Mobile:</sdk:Label>
+        <TextBox Canvas.Left="111" Canvas.Top="210" Height="21" Name="txtMobile" Width="101" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="237" Height="30" Name="Label9" Width="93">Pick-Up:</sdk:Label>
+        <sdk:Label Canvas.Left="13" Canvas.Top="264" Height="21" Name="Label10" Width="93">Return:</sdk:Label>
+        <TextBox Canvas.Left="112" Canvas.Top="237" Height="21" Name="txtSDYear" Width="50" />
+        <TextBox Canvas.Left="112" Canvas.Top="264" Height="21" Name="txtEDYear" Width="50" />
+        <TextBox Canvas.Left="168" Canvas.Top="237" Height="21" Name="txtSDMonth" Width="26" />
+        <TextBox Canvas.Left="168" Canvas.Top="264" Height="21" Name="txtEDMonth" Width="26" />
+        <TextBox Canvas.Left="200" Canvas.Top="237" Height="21" Name="txtSDDay" Width="26" />
+        <TextBox Canvas.Left="200" Canvas.Top="264" Height="21" Name="txtEDDay" Width="26" />
+        <TextBox Canvas.Left="244" Canvas.Top="237" Height="21" Name="txtSDHours" Width="26" />
+        <TextBox Canvas.Left="244" Canvas.Top="264" Height="21" Name="txtEDHours" Width="26" />
+        <TextBox Canvas.Left="276" Canvas.Top="237" Height="21" Name="txtSDMinutes" Width="26" />
+        <TextBox Canvas.Left="276" Canvas.Top="264" Height="21" Name="txtEDMinutes" Width="26" />
+        <TextBox Canvas.Left="308" Canvas.Top="237" Height="21" Name="txtSDSeconds" Width="26" />
+        <TextBox Canvas.Left="308" Canvas.Top="264" Height="21" Name="txtEDSeconds" Width="26" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="291" Height="28" Name="Label11" Width="120">Base Rate:</sdk:Label>
+        <TextBox Canvas.Left="111" Canvas.Top="291" Height="21" Name="txtRate" Width="101" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="318" Height="28" Name="Label12" Width="120">Description:</sdk:Label>
+        <TextBox Canvas.Left="111" Canvas.Top="318" Height="73" Name="txtDescription" Width="223" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="397" Height="29" Name="Label13" Width="164">ACRISS Code (1st Letter):</sdk:Label>
+        <TextBox Canvas.Left="160" Canvas.Top="397" Height="20" Name="txtACRISS1" Width="305" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="423" Height="29" Name="Label14" Width="164">ACRISS Code (2ndLetter):</sdk:Label>
+        <TextBox Canvas.Left="160" Canvas.Top="423" Height="20" Name="txtACRISS2" Width="305" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="449" Height="29" Name="Label15" Width="164">ACRISS Code (3rd Letter):</sdk:Label>
+        <TextBox Canvas.Left="160" Canvas.Top="449" Height="20" Name="txtACRISS3" Width="305" />
+        <sdk:Label Canvas.Left="13" Canvas.Top="475" Height="29" Name="Label16" Width="164">ACRISS Code (4th Letter):</sdk:Label>
+        <TextBox Canvas.Left="160" Canvas.Top="475" Height="20" Name="txtACRISS4" Width="305" />
+        <TextBox Canvas.Left="762" Canvas.Top="69" Height="21" Name="txtGPS" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="158" Height="21" Name="txtLDW" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="185" Height="21" Name="txtPAI" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="212" Height="21" Name="txtPEP" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="239" Height="21" Name="txtALI" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="285" Height="21" Name="txtCRF" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="312" Height="21" Name="txtRCFC" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="339" Height="21" Name="txtERF" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="366" Height="21" Name="txtVLF" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="393" Height="21" Name="txtWTB" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="420" Height="21" Name="txtSurcharge" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="447" Height="21" Name="txtTax" Width="66" TextAlignment="Right" />
+        <TextBox Canvas.Left="762" Canvas.Top="474" Height="21" Name="txtEstimatedTotal" Width="66" TextAlignment="Right" />
+        <sdk:Label Canvas.Left="630" Canvas.Top="420" Height="23" Name="Label22" Width="126">Surcharge:</sdk:Label>
+        <sdk:Label Canvas.Left="630" Canvas.Top="445" Height="23" Name="lblTax" Width="126">NO STATE Tax (10%):</sdk:Label>
+        <sdk:Label Canvas.Left="630" Canvas.Top="472" Height="23" Name="Label24" Width="126">Estimated Total:</sdk:Label>
+        <CheckBox Canvas.Left="532" Canvas.Top="74" Height="16" Name="chkGPS" Width="120">GPS</CheckBox>
+        <CheckBox Canvas.Left="532" Canvas.Top="163" Height="16" Name="chkLDW" Width="224">Loss Damage Waiver</CheckBox>
+        <CheckBox Canvas.Left="532" Canvas.Top="190" Height="16" Name="chkPAI" Width="226">Personal Accident Insurance</CheckBox>
+        <CheckBox Canvas.Left="532" Canvas.Top="217" Height="16" Name="chkPEP" Width="217">Personal Effects Protection</CheckBox>
+        <CheckBox Canvas.Left="532" Canvas.Top="244" Height="16" Name="chkALI" Width="226">Additional Liability Insurance</CheckBox>
+        <CheckBox Canvas.Left="532" Canvas.Top="100" Height="17" Name="chkFSO" Width="185">Fuel Service Option</CheckBox>
+        <Image Canvas.Left="341" Canvas.Top="319" Height="40" Name="picCarType" Stretch="Fill" Width="95" />
+        <sdk:Label Background="White" Canvas.Left="513" Canvas.Top="43" Height="25" Name="Label17" Width="85">Rental Options:</sdk:Label>
+        <sdk:Label Background="White" Canvas.Left="513" Canvas.Top="137" Height="23" Name="Label18" Width="139">Protections / Coverages:</sdk:Label>
+        <Button Canvas.Left="723" Canvas.Top="523" Height="24" x:Name="cmdOK" Width="131">OK</Button>
+        <Button Canvas.Left="586" Canvas.Top="524" Height="23" x:Name="cmdCancel" Width="131">Cancel</Button>
+    </Canvas>
+</controls:ChildWindow>

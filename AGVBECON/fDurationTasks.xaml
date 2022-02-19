@@ -1,0 +1,25 @@
+﻿<navigation:Page x:Class="AGVBECON.fDurationTasks" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           xmlns:AGVBE="clr-namespace:AGVBE;assembly=AGVBE"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           d:DesignWidth="640" d:DesignHeight="480"
+           Title="Duration Tasks">
+    <Canvas x:Name="LayoutRoot" Width="1024" Height="700">
+        <Border Canvas.Top="10" Canvas.Left="12" Height="40" Width="350" BorderBrush="#CCC" CornerRadius="3" BorderThickness="1" >
+            <StackPanel Orientation="Horizontal">
+                <Button Name="cmdBack" Width="24" Height="24" Margin="5,5,5,5">
+                    <ToolTipService.ToolTip>
+                        <ToolTip Content="Back to main menu"></ToolTip>
+                    </ToolTipService.ToolTip>
+                    <Image Source="Images/Toolbars/tree_view.png" Width="16" Height="16" Name="Image1" />
+                </Button>
+            </StackPanel>
+        </Border>
+        <AGVBE:ActiveGanttVBECtl x:Name="ActiveGanttVBECtl1" Canvas.Top="60" Canvas.Left="12" Width="1024" Height="600" />
+    </Canvas>
+</navigation:Page>
+

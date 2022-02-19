@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="tb_CR_Car_Types.xsd" generated="2011-04-10T10:15:55">
+<tb_CR_Car_Types>
+<lCarTypeID>1</lCarTypeID>
+<sDescription>Escape Panther Black</sDescription>
+<sACRISSCode>IFBV</sACRISSCode>
+<cStdRate>71</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>2</lCarTypeID>
+<sDescription>Escape Hot Red</sDescription>
+<sACRISSCode>IFBV</sACRISSCode>
+<cStdRate>71</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>3</lCarTypeID>
+<sDescription>Escape Atlantis Blue</sDescription>
+<sACRISSCode>IFBV</sACRISSCode>
+<cStdRate>71</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>4</lCarTypeID>
+<sDescription>Escape Metalic Sand</sDescription>
+<sACRISSCode>IFBV</sACRISSCode>
+<cStdRate>71</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>5</lCarTypeID>
+<sDescription>Territory TX RWD Ego</sDescription>
+<sACRISSCode>PWDV</sACRISSCode>
+<cStdRate>223</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>6</lCarTypeID>
+<sDescription>Territory TX RWD Kashmir</sDescription>
+<sACRISSCode>PWDV</sACRISSCode>
+<cStdRate>223</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>7</lCarTypeID>
+<sDescription>Territory TX RWD Steel</sDescription>
+<sACRISSCode>PWDV</sACRISSCode>
+<cStdRate>223</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>8</lCarTypeID>
+<sDescription>Territory TX RWD Silhouette</sDescription>
+<sACRISSCode>PWDV</sACRISSCode>
+<cStdRate>223</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>9</lCarTypeID>
+<sDescription>Territory TX RWD Winter White</sDescription>
+<sACRISSCode>PWDV</sACRISSCode>
+<cStdRate>223</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>10</lCarTypeID>
+<sDescription>Mondeo LX Sea Grey</sDescription>
+<sACRISSCode>IDAV</sACRISSCode>
+<cStdRate>39</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>11</lCarTypeID>
+<sDescription>Mondeo LX Ink Blue</sDescription>
+<sACRISSCode>IDAV</sACRISSCode>
+<cStdRate>39</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>12</lCarTypeID>
+<sDescription>Mondeo LX Colorado Red</sDescription>
+<sACRISSCode>IDAV</sACRISSCode>
+<cStdRate>39</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>13</lCarTypeID>
+<sDescription>Fiesta CL 5 Door Squeeze</sDescription>
+<sACRISSCode>EDAZ</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>14</lCarTypeID>
+<sDescription>Fiesta CL 5 Door Hydro</sDescription>
+<sACRISSCode>EDAZ</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>15</lCarTypeID>
+<sDescription>Fiesta CL 5 Door Panther Black</sDescription>
+<sACRISSCode>EDAZ</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>16</lCarTypeID>
+<sDescription>Fiesta CL 5 Door Frozen White</sDescription>
+<sACRISSCode>EDAZ</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>17</lCarTypeID>
+<sDescription>Fiesta CL 3 Door Ocean</sDescription>
+<sACRISSCode>ECAZ</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>18</lCarTypeID>
+<sDescription>Fiesta CL 3 Door Hydro</sDescription>
+<sACRISSCode>ECAZ</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>19</lCarTypeID>
+<sDescription>Fiesta CL 3 Door Panther Black</sDescription>
+<sACRISSCode>ECAZ</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>20</lCarTypeID>
+<sDescription>Focus CL Sedan Satin White</sDescription>
+<sACRISSCode>CDAV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>21</lCarTypeID>
+<sDescription>Focus CL Sedan Titanium Grey</sDescription>
+<sACRISSCode>CDAV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>22</lCarTypeID>
+<sDescription>Focus CL Sedan Black Sapphire</sDescription>
+<sACRISSCode>CDAV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>23</lCarTypeID>
+<sDescription>Focus CL Sedan Tango</sDescription>
+<sACRISSCode>CDAV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>24</lCarTypeID>
+<sDescription>Focus CL Sedan Ocean</sDescription>
+<sACRISSCode>CDAV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>25</lCarTypeID>
+<sDescription>Falcon XT Wagon Lightning Strike</sDescription>
+<sACRISSCode>FWAV</sACRISSCode>
+<cStdRate>45</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>26</lCarTypeID>
+<sDescription>Falcon XT Wagon Silhoutte</sDescription>
+<sACRISSCode>FWAV</sACRISSCode>
+<cStdRate>45</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>27</lCarTypeID>
+<sDescription>Falcon XT Wagon Sensation</sDescription>
+<sACRISSCode>FWAV</sACRISSCode>
+<cStdRate>45</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>28</lCarTypeID>
+<sDescription>Falcon XT Wagon Vixen</sDescription>
+<sACRISSCode>FWAV</sACRISSCode>
+<cStdRate>45</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>29</lCarTypeID>
+<sDescription>Falcon XT Wagon Steel</sDescription>
+<sACRISSCode>FWAV</sACRISSCode>
+<cStdRate>45</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>30</lCarTypeID>
+<sDescription>Focus CL Hatch Ocean</sDescription>
+<sACRISSCode>CDMV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>31</lCarTypeID>
+<sDescription>Focus CL Hatch Black Sapphire</sDescription>
+<sACRISSCode>CDMV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>32</lCarTypeID>
+<sDescription>Focus CL Hatch Tonic</sDescription>
+<sACRISSCode>CDMV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>33</lCarTypeID>
+<sDescription>Focus CL Hatch Colorado Red</sDescription>
+<sACRISSCode>CDMV</sACRISSCode>
+<cStdRate>37</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>34</lCarTypeID>
+<sDescription>Range Rover HSE Alaska White</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>245</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>35</lCarTypeID>
+<sDescription>Range Rover HSE Rimini</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>245</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>36</lCarTypeID>
+<sDescription>Range Rover HSE Galway Green</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>245</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>37</lCarTypeID>
+<sDescription>Range Rover HSE Buckingham Blue</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>245</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>38</lCarTypeID>
+<sDescription>Range Rover HSE Santorini Black</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>245</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>39</lCarTypeID>
+<sDescription>Range Rover HSE Zermatt Silver</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>245</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>40</lCarTypeID>
+<sDescription>LR3 Rimini Red</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>232</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>41</lCarTypeID>
+<sDescription>LR3 Santorini Black</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>232</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>42</lCarTypeID>
+<sDescription>LR3 Alaska White</sDescription>
+<sACRISSCode>FFBV</sACRISSCode>
+<cStdRate>232</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>43</lCarTypeID>
+<sDescription>Town and Country Modern Blue</sDescription>
+<sACRISSCode>FVAV</sACRISSCode>
+<cStdRate>51</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>44</lCarTypeID>
+<sDescription>Town and Country Melbourne Green</sDescription>
+<sACRISSCode>FVAV</sACRISSCode>
+<cStdRate>51</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>45</lCarTypeID>
+<sDescription>Town and Country Inferno Red</sDescription>
+<sACRISSCode>FVAV</sACRISSCode>
+<cStdRate>51</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>46</lCarTypeID>
+<sDescription>Chrysler 300 Clearwater Blue</sDescription>
+<sACRISSCode>LCAR</sACRISSCode>
+<cStdRate>77</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>47</lCarTypeID>
+<sDescription>Chrysler 300 Brilliant Black</sDescription>
+<sACRISSCode>LCAR</sACRISSCode>
+<cStdRate>77</cStdRate>
+</tb_CR_Car_Types>
+<tb_CR_Car_Types>
+<lCarTypeID>48</lCarTypeID>
+<sDescription>Chrysler 300 Bright Silver</sDescription>
+<sACRISSCode>LCAR</sACRISSCode>
+<cStdRate>77</cStdRate>
+</tb_CR_Car_Types>
+</dataroot>
